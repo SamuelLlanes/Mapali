@@ -1,13 +1,13 @@
 # MapaliCDB
 
 ## Los integrantes.
-Carlos Samuel Llanes Cornejo.
+Carlos Samuel Llanes Cornejo. 1#
 
-Carlos David Ostorga Gálvez.
+Carlos David Ostorga Gálvez. 10#
 
-Ángel Josué Rodríguez Alemán.
+Ángel Josué Rodríguez Alemán. 15#
 
-Diego Fernando Ruiz Valle.
+Diego Fernando Ruiz Valle. 18#
 
 
 ## Link Manual de usuario.
