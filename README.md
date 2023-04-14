@@ -15,6 +15,7 @@ Diego Fernando Ruiz Valle. 18#
 
 
 ## Link Manual técnico (investigar).
+[Manual](https://www.canva.com/design/DAFf8ZyUw4w/v_y07J8ARWffpfEWA2Rwzg/edit?utm_content=DAFf8ZyUw4w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## Link Trello o Notion.
