@@ -10,7 +10,7 @@ Carlos David Ostorga Gálvez. 10#
 Diego Fernando Ruiz Valle. 18#
 
 
-## Link Manual de usuario.
+## Link Manual de usuario.[]([url](https://www.canva.com/design/DAFf1iLjUUU/YpRxx50IG8BTKvs1ruPwSw/edit?utm_content=DAFf1iLjUUU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 
 ## Link Manual técnico (investigar).
