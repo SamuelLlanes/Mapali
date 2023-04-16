@@ -2,7 +2,7 @@
 
 Creación de una Página Web con temática Turística para la materia de Desarrollo de Software compatibles para computadoras y móviles, hechas para el uso de el CDB y la UDB.
 
-## Pre-requisitos de su uso.🗒️🧾📑
+## Pre-requisitos de su uso.🗒️🖋️
 Para poder usar la página web es necesario tener una computadora o un dispositivo móvil con acceso a internet, además de tener un sistema operativo adaptable.
 
 ## Herramientas ⚒️
