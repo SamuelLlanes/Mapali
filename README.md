@@ -21,17 +21,25 @@ Antes de comenzar, asegurarse de tener lo siguiente.
 
 + Leer el manual de usuario y técnico.
 
+## Autores ✒️
+
++ Carlos Samuel: Programación y lógica.
+
++ Carlos Ostorga: Programación, diseño y lógica.
+
++ Angel Josue: Programación, diseño y manuales
+
++ Diego Ruiz: Programación y diseño.
+
 ## Licencia 🪪
 
 Este proyecto está bajo la licencia Mapali.Sv.2023-CompartirIgual 4.0 Internacional que establece:
 Que usted es libre de: Compartir--Copiar el material en cualquier medio o formato adaptable a construir a partir del material, la licencia no puede revocar en tanto usted siga los términos de la licencia.
 
-## Enlaces de Interés 🗳️📧🔍
+## Enlaces de Interés 🔍
 
 + Manual de Usuario:
 
 + Manual Técnico:
 
 + Enlace a Mockups:
-
-
