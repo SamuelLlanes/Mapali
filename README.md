@@ -1,34 +1,38 @@
-# MapaliCDB
+# Mapali.Sv.2023
 
-## Los integrantes.
-Carlos Samuel Llanes Cornejo. 1#
+Creación de una Página Web con temática Turística para la materia de Desarrollo de Software compatibles para computadoras y móviles, hechas para el uso de el CDB y la UDB.
 
-Carlos David Ostorga Gálvez. 10#
+## Pre-requisitos de su uso.
+Para poder usar la página web es necesario tener una computadora o un dispositivo móvil con acceso a internet, además de tener un sistema operativo adaptable.
 
-Ángel Josué Rodríguez Alemán. 15#
+## Herramientas
 
-Diego Fernando Ruiz Valle. 18#
+### HTML: https://developer.mozilla.org/es/docs/Web/HTML - Cuerpo de la página web.
+### CSS: https://www.hostinger.es/tutoriales/que-es-css - Estilo de la página web.
+### JavaScript: https://lenguajejs.com/javascript/ - Funciones de la página web.
 
+## Guia de Uso
 
-## Link Manual de usuario.
+Antes de comenzar, asegurarse de tener lo siguiente.
+
++ Una computadora o dispositivo móvil.
+
++ Acceso a Internet o a datos móviles.
+
++ Leer el manual de usuario y técnico.
+
+## Licencia
+
+Este proyecto está bajo la licencia Mapali.Sv.2023-CompartirIgual 4.0 Internacional que establece:
+Que usted es libre de: Compartir--Copiar el material en cualquier medio o formato adaptable a construir a partir del material, la licencia no puede revocar en tanto usted siga los términos de la licencia.
+
+## Enlaces de Interés
+
+Manual de Usuario.
+
 [Manual](https://www.canva.com/design/DAFf1iLjUUU/YpRxx50IG8BTKvs1ruPwSw/edit?utm_content=DAFf1iLjUUU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+Manual Técnico:
 
-## Link Manual técnico (investigar).
 [Manual](https://www.canva.com/design/DAFf8ZyUw4w/v_y07J8ARWffpfEWA2Rwzg/edit?utm_content=DAFf8ZyUw4w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-
-## Link Trello o Notion.
-
-
-## Link Los diseños Mock Ups.
-
-
-## Link de la pagina web.
-
-
-## Licencia.
-
-Este proyecto está bajo la licencia Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Que establece:
-
-Usted es libre de: Compartir — copiar y redistribuir el material en cualquier medio o formato Adaptar — remezclar, transformar y construir a partir del material La licenciante no puede revocar estas libertades en tanto usted siga los términos de la licencia.
