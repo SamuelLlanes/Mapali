@@ -39,7 +39,7 @@ Que usted es libre de: Compartir--Copiar el material en cualquier medio o format
 
 ## Enlaces de Interés 🔍
 
-+ Manual de Usuario:
++ Manual de Usuario: https://developer.mozilla.org/es/docs/Web/HTML
 
 + Manual Técnico:
 
