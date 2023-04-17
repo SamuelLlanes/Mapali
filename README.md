@@ -39,7 +39,7 @@ Que usted es libre de: Compartir--Copiar el material en cualquier medio o format
 
 ## Enlaces de Interés 🔍
 
-+ Manual de Usuario: https://www.canva.com/design/DAFf1iLjUUU/YpRxx50IG8BTKvs1ruPwSw/edit?utm_content=DAFf1iLjUUU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
++ Manual de Usuario: 
 
 + Manual Técnico: https://www.canva.com/design/DAFf8ZyUw4w/v_y07J8ARWffpfEWA2Rwzg/edit?utm_content=DAFf8ZyUw4w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
