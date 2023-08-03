@@ -10,6 +10,9 @@ Para poder usar la página web es necesario tener una computadora o un dispositi
 ### HTML: https://developer.mozilla.org/es/docs/Web/HTML - Cuerpo de la página web.
 ### CSS: https://www.hostinger.es/tutoriales/que-es-css - Estilo de la página web.
 ### JavaScript: https://lenguajejs.com/javascript/ - Funciones de la página web.
+### PHP: https://www.php.net/ - Conexión entre el Servidor y la Interfaz de Usuario.
+### Laravel: https://laravel.com/ - Frameworks con un Conjunto de Herramientas y Recursos.
+
 
 ## Guia de Uso 🖥️🖱️
 
