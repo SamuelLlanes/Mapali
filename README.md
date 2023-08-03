@@ -17,7 +17,7 @@ Para poder usar la página web es necesario tener una computadora con sistema op
 
 Antes de comenzar, asegurarse de tener lo siguiente.
 
-+ Una computadora o dispositivo móvil.
++ Una computadora adaptable.
 
 + Acceso a Internet o a datos móviles.
 
