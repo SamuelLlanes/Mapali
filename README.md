@@ -1,6 +1,6 @@
 # Mapali 2023 🗺️
 
-Desarrollo de un sitio web con temática turística para la materia de Desarrollo de Software compatible para computadoras adaptables, echas para el uso de el CDB y la UDB.
+Desarrollo de un sitio web con temática turística para la materia de Desarrollo de Software para computadoras adaptables, echas para el uso de el CDB y la UDB.
 
 ## Pre-requisitos de su uso.🗒️🖋️
 Para poder usar la página web es necesario tener una computadora con sistema operativo windows o macOS con acceso a internet, además de tener un sistema operativo adaptable.
