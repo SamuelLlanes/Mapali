@@ -3,13 +3,13 @@
 Desarrollo de un sitio web con temática turística para la materia de Desarrollo de Software para computadoras adaptables, echas para el uso de el CDB y la UDB.
 
 ## Pre-requisitos de su uso.🗒️🖋️
-Para poder usar la página web es necesario tener una computadora con sistema operativo windows o macOS con acceso a internet, además de tener un sistema operativo adaptable.
+Para poder usar el sitio web es necesario tener una computadora con sistema operativo windows o macOS con acceso a internet, además de tener un sistema operativo adaptable.
 
 ## Herramientas ⚒️
 
-### HTML: https://developer.mozilla.org/es/docs/Web/HTML - Código para estructurar y desplegar una página web .
+### HTML: https://developer.mozilla.org/es/docs/Web/HTML - Código para estructurar y desplegar una página web.
 ### CSS: https://www.hostinger.es/tutoriales/que-es-css - Lenguaje que maneja el diseño y presentación de las páginas web.
-### JavaScript: https://lenguajejs.com/javascript/ - Lenguaje de programación interpretado, dialecto del estándar ECMAScript..
+### JavaScript: https://lenguajejs.com/javascript/ - Lenguaje de programación interpretado, dialecto del estándar ECMAScript.
 ### PHP: https://www.php.net/ - Lenguaje de programación que permite el desarrollo web o aplicaciones web dinámicas.
 ### Laravel: https://laravel.com/ - Framework de código abierto para desarrollar aplicaciones y servicios web.
 
